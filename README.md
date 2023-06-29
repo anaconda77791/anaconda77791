@@ -1,16 +1,18 @@
+## ***"Let me issue and control a nation's money and I care not who writes the law" -- Mayer Amschel Rotschild***
+
 ### Hi there 👋
 
-<!--
-**anaconda77791/anaconda77791** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as freelancer
 
-Here are some ideas to get you started:
+🌱 I’m currently learning
+  - Languages: Modern C++, C#, Rust, Typescript
+  - Topic #1: Blockchain Architecture, Computer Graphics / Design, Sharp Animations
+  - Topic #2: Game Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m looking for help with an opportunity to take part in innovative projects
+
+💬 Ask me about blockchain technology and cryptocurrency
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I'm a skillful cook
