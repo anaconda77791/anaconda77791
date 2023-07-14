@@ -5,7 +5,7 @@
 🔭 I’m currently working as freelancer
 
 🌱 I’m currently learning
-  - Languages: Modern C++, C#, Rust, Golang, Typescript, Solidity
+  - Languages: Golang, Typescript, Solidity
   - Topic #1: Blockchain Architecture, Computer Graphics / Design, Sharp Animations
   - Topic #2: Game Engineering
 
