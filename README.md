@@ -1,5 +1,3 @@
-## ***"Let me issue and control a nation's money and I care not who writes the law" -- Mayer Amschel Rotschild***
-
 ### Hi there 👋
 
 🔭 I’m currently working as freelancer
