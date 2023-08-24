@@ -11,6 +11,4 @@
 
 💬 Ask me about blockchain technology and cryptocurrency
 
-😄 Pronouns: he/him
-
 ⚡ Fun fact: I'm a skillful cook
