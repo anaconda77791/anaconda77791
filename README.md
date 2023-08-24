@@ -11,4 +11,4 @@
 
 💬 Ask me about blockchain technology and cryptocurrency
 
-⚡ Fun fact: I'm a skillful cook
+⚡ Fun fact: I'm a talented cook
